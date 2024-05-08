@@ -3,7 +3,7 @@
 <div class="primary-content-area content-padding">
     <div class="container section-padding">
         <div class="section-title-wrapper">
-            <div class="section-title"> <span class="gradiente-text">Market Place de NFT</span></div>
+            <div class="section-title"> <span class="gradiente-text">NFT  MarketPlace</span></div>
         </div>
         <!-- filterable panel -->
         <div class="filterable-bar">

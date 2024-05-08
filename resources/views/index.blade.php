@@ -30,7 +30,7 @@
 
 
 <div align="center">
-<img src="{{ url('assets/img/logo-grande.png') }}" height="190">
+<img src="{{ url('assets/img/logo.png') }}" height="190">
 </div>
 <br>
 
@@ -67,7 +67,7 @@
 </div>
 <br>
 <div align="center">
-<img src="{{ url('assets/img/org_realizacao.png') }}">
+<!-- <img src="{{ url('assets/img/org_realizacao.png') }}"> -->
 </div>
 
 
